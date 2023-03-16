@@ -19,3 +19,4 @@ pom.xml.asc
 
 # End of https://www.toptal.com/developers/gitignore/api/clojure
 
+*.code-workspace
