@@ -19,4 +19,11 @@ pom.xml.asc
 
 # End of https://www.toptal.com/developers/gitignore/api/clojure
 
+# VSCode
 *.code-workspace
+.lsp/
+.clj-kondo
+
+#IntelliJ
+.idea
+trying-clojure.iml
