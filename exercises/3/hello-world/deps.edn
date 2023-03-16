@@ -1,0 +1,2 @@
+{:deps
+ {io.github.mugen16/time-lib {:git/tag "v0.0.1" :git/sha "00d8d6ce81eb15a75e0c9d7699a89a047eec2bd6" }}}
